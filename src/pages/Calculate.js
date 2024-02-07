@@ -65,6 +65,8 @@ It's important to note that BMI is a general indicator and may not always accura
         <div className='flex justify-center my-10'>
       <button className='rounded-xl p-2 text-3xl font-semibold text-white bg-blue-500' onClick={calculateBMI}>Calculate BMI</button>
         </div>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7877602362549451"
+     crossorigin="anonymous"></script>
         <div className='flex justify-end mt-16 pt-2'>
         <img src={img} alt='img' className='h-60 w-60'/>
         </div>
